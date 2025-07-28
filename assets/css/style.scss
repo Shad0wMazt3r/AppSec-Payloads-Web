@@ -1,0 +1,70 @@
+---
+---
+
+@import "minima";
+
+// Dark theme override
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+}
+
+.site-header {
+  background-color: #161b22;
+  border-bottom: 1px solid #30363d;
+}
+
+.site-title, .site-nav .page-link {
+  color: #58a6ff !important;
+}
+
+.site-nav .page-link:hover {
+  color: #79c0ff !important;
+}
+
+pre, code {
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  color: #e6edf3;
+}
+
+.highlight {
+  background-color: #0d1117;
+}
+
+.payload-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+
+.payload-card {
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 8px;
+  padding: 20px;
+  text-decoration: none;
+  color: #c9d1d9;
+  transition: all 0.3s ease;
+  display: block;
+}
+
+.payload-card:hover {
+  border-color: #58a6ff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(88, 166, 255, 0.15);
+  text-decoration: none;
+  color: #c9d1d9;
+}
+
+.payload-card h3 {
+  margin: 0 0 10px 0;
+  color: #58a6ff;
+}
+
+.payload-card p {
+  margin: 0;
+  font-size: 14px;
+  opacity: 0.8;
+}

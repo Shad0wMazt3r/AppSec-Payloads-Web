@@ -40,38 +40,4 @@ A collection of web application security testing payloads for penetration testin
 
 **These payloads are for authorized security testing only.** Use responsibly and only on systems you own or have explicit permission to test.
 
-<style>
-.payload-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-  margin: 30px 0;
-}
 
-.payload-card {
-  background: #0d1117;
-  border: 1px solid #30363d;
-  border-radius: 8px;
-  padding: 20px;
-  text-decoration: none;
-  color: #c9d1d9;
-  transition: all 0.3s ease;
-}
-
-.payload-card:hover {
-  border-color: #58a6ff;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(88, 166, 255, 0.15);
-}
-
-.payload-card h3 {
-  margin: 0 0 10px 0;
-  color: #58a6ff;
-}
-
-.payload-card p {
-  margin: 0;
-  font-size: 14px;
-  opacity: 0.8;
-}
-</style>
