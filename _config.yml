@@ -28,7 +28,7 @@ url: "https://shad0wmazt3r.github.io"
 github_username: shad0wmazt3r
 
 # Build settings
-theme: hacker
+theme: midnight
 plugins:
   - jekyll-feed
 
