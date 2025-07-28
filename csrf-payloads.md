@@ -1,4 +1,9 @@
-# Cross-Site Request Forgery (CSRF) Payloads
+---
+layout: default
+title: CSRF Payloads
+---
+
+# 🔄 Cross-Site Request Forgery (CSRF) Payloads
 
 ## HTML Form CSRF
 ```html

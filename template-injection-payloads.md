@@ -1,4 +1,9 @@
-# Template Injection Payloads
+---
+layout: default
+title: Template Injection Payloads
+---
+
+# 📝 Template Injection Payloads
 
 ## Jinja2 (Python)
 ```

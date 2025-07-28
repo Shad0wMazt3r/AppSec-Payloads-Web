@@ -1,4 +1,9 @@
-# Server-Side Request Forgery (SSRF) Payloads
+---
+layout: default
+title: SSRF Payloads
+---
+
+# 🌐 Server-Side Request Forgery (SSRF) Payloads
 
 ## Basic SSRF
 ```

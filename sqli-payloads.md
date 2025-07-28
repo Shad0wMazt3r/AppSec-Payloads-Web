@@ -1,4 +1,9 @@
-# SQL Injection Payloads
+---
+layout: default
+title: SQL Injection Payloads
+---
+
+# 🗃️ SQL Injection Payloads
 
 ## Basic SQLi
 ```

@@ -1,4 +1,9 @@
-# Cross-Site Scripting (XSS) Payloads
+---
+layout: default
+title: XSS Payloads
+---
+
+# ⚡ Cross-Site Scripting (XSS) Payloads
 
 ## Basic XSS
 ```
